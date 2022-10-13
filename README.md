@@ -1,6 +1,6 @@
 - 👋 Hi, this is Xavier, 
 - 🌱 I’m currently a year 3 student in the Hong Kong Polytechnic University
-- 👀 I’m interested in software development and Cloud!
+- 👀 I’m interested in software development and Cloud !
 - 💞 Have a look on my perosnall website! https://remember-urinating-before-bed.github.io/Personal-Website/
 
 <!---
