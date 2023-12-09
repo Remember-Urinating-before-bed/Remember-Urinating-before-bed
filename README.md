@@ -1,5 +1,5 @@
 - 👋 Hi, this is Xavier, 
-- 🌱 I’m currently a year 3 student in the Hong Kong Polytechnic University
+- 🌱 I’m currently a year 4 student in the Hong Kong Polytechnic University
 - 👀 I’m interested in software development and Cloud !
 - 💞 Have a look on my linkedin & perosnal website ! 
 - Linkedin: https://www.linkedin.com/in/xavier-leung-934aa1241/
